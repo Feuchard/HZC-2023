@@ -3,7 +3,7 @@ Esse projeto foi desenvolvido com os conhecimentos que adquiri nas aulas de CSS 
 <br>
 <br>
 <div>
-<img alt="imagem curso HTML e CSS parte 1" src="https://github.com/Feuchard/HZC-2023/blob/main/assets/img/css-flexbox-grid.png">
+<img alt="imagem curso de CSS - flexbox e grid" src="https://github.com/Feuchard/HZC-2023/blob/main/assets/img/css-flexbox-grid.png">
 <br>
 <br>
   <ul>
