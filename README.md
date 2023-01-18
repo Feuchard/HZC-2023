@@ -1,3 +1,38 @@
+# HZC-2023
+Esse projeto foi desenvolvido com os conhecimentos que adquiri nas aulas de CSS sobre Flexbox e Grid da Alura.
+<br>
+<br>
+<div>
+<img alt="imagem curso HTML e CSS parte 1" src="https://github.com/Feuchard/HZC-2023/blob/main/assets/img/css-flexbox-grid.png">
+<br>
+<br>
+  <ul>
+      <li>Relacione o flexbox com maneiras já conhecidas de posicionamento de elementos</li>
+      <li>Veja o flexbox e suas propriedades para o posicionamento de elementos</li>
+      <li>Produza o cabeçalho utilizando as ferramentas do flexbox</li>
+      <li>Identifique as limitações do flexbox</li>
+      <li>Diferencie o flexbox do grid</li>
+      <li>Prototipe o layout de um cartão utilizando propriedades básicas do grid</li>
+      <li>Reconheça no layout do figma o que pode fazer parte de um grid</li>
+      <li>Associe as propriedades novas com o que já existe de estrutura no projeto</li>
+      <li>Veja como o layout atual se comporta em um dispositivo diferente</li>
+      <li>Resolva os problemas com novas propriedades de grid</li>
+      <li>Produza o restante do layout com novas propriedades de grid</li>
+      <li>Identifique problemas como: repetição de código, manutenção e unidades de medida</li>
+      <li>Entenda as vantagens de se utilizar a abordagem do grid</li>
+      <li>Planeje como pode ser a construção das outras páginas do projeto utilizando as técnicas aprendidas</li>
+    </ul>
+</div>  
+ 
+## Visualize o projeto
+  
+  <ul>
+    <li><a href="https://feuchard.github.io/Barbearia-Alura/" target="_blank">Barbearia Alura - 2023</li
+</ul>
+<br>
+        
+##       
+        
 # Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.
